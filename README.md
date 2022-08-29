@@ -27,3 +27,7 @@ Langkah 1: Cupertino Button dan Loading Bar
 Langkah 2: Floating Action Button (FAB)
 
 ![Floating Action Button (FAB)](./images/06.png)
+
+Langkah 3: Scaffold Widget
+
+![Scaffold Widget](./images/06.png)
