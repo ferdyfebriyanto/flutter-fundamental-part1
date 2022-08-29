@@ -7,6 +7,7 @@ class MyCupertino extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false, // Add this
       home: Container(
         margin: const EdgeInsets.only(top: 30),
         color: Colors.white,
