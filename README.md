@@ -13,3 +13,9 @@
 Langkah 1: Text Widget
 
 ![Text Widget](./images/03.png)
+
+Langkah 2: Image Widget
+
+![Image Widget](./images/04.png)
+
+## Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
