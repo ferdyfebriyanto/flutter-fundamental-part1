@@ -26,13 +26,30 @@ Langkah 1: Cupertino Button dan Loading Bar
 
 Langkah 2: Floating Action Button (FAB)
 
+* Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
+
 ![Floating Action Button (FAB)](./images/06.png)
 
 Langkah 3: Scaffold Widget
+
+* Scaffold widget digunakan untuk mengatur tata letak sesuai dengan material design.
 
 ![Scaffold Widget](./images/07.png)
 
 Langkah 4: Dialog Widget
 
+* Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
+
 ![Dialog Widget](./images/08.png)
 
+Langkah 5: Input dan Selection Widget
+
+* Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yaitu antara lain Checkbox, Date and Time Pickers, Radio Button, Slider, Switch, TextField.
+
+![Input dan Selection Widget](./images/09.png)
+
+Langkah 6: Date and Time Pickers
+
+* Date and Time Pickers termasuk pada kategori input dan selection widget.
+
+![Input dan Selection Widget](./images/10.png)
