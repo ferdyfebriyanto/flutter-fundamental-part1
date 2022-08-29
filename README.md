@@ -23,3 +23,7 @@ Langkah 2: Image Widget
 Langkah 1: Cupertino Button dan Loading Bar
 
 ![Cupertino Button dan Loading Bar](./images/05.png)
+
+Langkah 2: Floating Action Button (FAB)
+
+![Floating Action Button (FAB)](./images/06.png)
