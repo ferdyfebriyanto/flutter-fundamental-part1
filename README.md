@@ -53,3 +53,8 @@ Langkah 6: Date and Time Pickers
 * Date and Time Pickers termasuk pada kategori input dan selection widget.
 
 ![Input dan Selection Widget](./images/10.png)
+![Input dan Selection Widget](./images/11.png)
+
+## TUGAS
+
+* Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!

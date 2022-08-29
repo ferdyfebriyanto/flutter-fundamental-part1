@@ -9,8 +9,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Contoh Date Picker',
-      home: MyHomePage(title: 'Contoh Date Picker'),
+      title: 'Flutter Fundamental Part 1',
+      home: MyHomePage(title: 'Flutter Fundamental Part 1'),
     );
   }
 }
