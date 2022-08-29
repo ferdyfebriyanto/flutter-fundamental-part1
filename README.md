@@ -10,4 +10,6 @@
 
 ## Praktikum 3: Menerapkan Widget Dasar
 
-![Widget Dasar]()
+Langkah 1: Text Widget
+
+![Text Widget](./images/03.png)
