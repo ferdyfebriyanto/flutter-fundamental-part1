@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:hello_world/basic_widgets/date_time_picker.dart';
 import 'package:hello_world/basic_widgets/loading_cupertino.dart';
+import 'package:hello_world/basic_widgets/scaffold_widget.dart';
 import 'package:hello_world/basic_widgets/text_field.dart';
 
 void main() => runApp(const MyApp());
@@ -35,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: const MyDatePicker(),
+      body: const MyScaffold(),
     );
   }
 }
