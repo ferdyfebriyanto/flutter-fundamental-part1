@@ -58,3 +58,5 @@ Langkah 6: Date and Time Pickers
 ## TUGAS
 
 * Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
+
+![Dialog Widget](./images/08.png)
